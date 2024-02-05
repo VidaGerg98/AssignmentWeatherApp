@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "PFqe35Cuu3hXRYBhEDADgy4DB2krmcMF6HkDpsOZQg8=",
+  "Source": "WeatherAppWithLayoutViews",
+  "BasePath": "_content/WeatherAppWithLayoutViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppWithLayoutViews\\wwwroot",
+      "Source": "WeatherAppWithLayoutViews",
+      "ContentRoot": "C:\\aspnetcore\\WeatherAppWithLayoutViews\\WeatherAppWithLayoutViews\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithLayoutViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcore\\WeatherAppWithLayoutViews\\WeatherAppWithLayoutViews\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAppWithLayoutViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcore\\WeatherAppWithLayoutViews\\WeatherAppWithLayoutViews\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithLayoutViews",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
